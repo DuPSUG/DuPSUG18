@@ -9,9 +9,10 @@ Speakers
 
 We have the following speakers presenting:
 
-* Rik van Berendonk – CTO at OGD
-* Barbara Forbes – IT Consultant at SCCT BV
-* Mathias Jessen – Security Specialist at Booking.com
+* [Rik van Berendonk](https://twitter.com/rikvanb) – CTO at OGD
+* [Barbara Forbes](https://twitter.com/Ba4bes) – IT Consultant at SCCT BV
+* [Mathias Jessen](https://twitter.com/IISResetMe) – Security Specialist at Booking.com
+* [Jos Koelewijn](https://twitter.com/Jawz_84) - Cloud Developer at OGD
 
 ## Agenda
 
