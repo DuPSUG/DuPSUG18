@@ -1,5 +1,11 @@
 # DuPSUG 18 ❤️ – Valentine’s Day Edition in Delft
 
+* [Barbara Forbes](https://twitter.com/Ba4bes) - [Deploy a PowerShell Function App to Azure in less then 10 minutes] (https://github.com/DuPSUG/DuPSUG18/blob/master/Barbara%20Forbes/DeployAzFAin10minutes.pdf)
+* [Jos Koelewijn](https://twitter.com/Jawz_84) - [PowerShell Contributing for Everyone](https://github.com/DuPSUG/DuPSUG18/blob/master/Jos%20Koelewijn/PowerShell%20Contributing%20for%20Everyone.pptx)
+* [Jaap Brasser](https://twitter.com/jaap_brasser) - [DuPSUG Intro & 10 Problems](https://github.com/DuPSUG/DuPSUG18/blob/master/Jaap%20Brasser/)
+* [Rik van Berendonk](https://twitter.com/rikvanb) - []()
+* [Mathias Jessen](https://twitter.com/IISResetMe) – []()
+
 ## About DuPSUG 18 – 13th of February in Delft
 
 This is an evening edition of our user group, with a special focus on PowerShell Developer technologies, Azure and of course a deep dive into PowerShell. We will start off the event with a quick bite to eat for our attendees and speakers. We have an evening with diverse and advanced topics prepared for you presented by experienced speakers. If you would like to attend please register through Eventbrite to reserve your seat, as we have limited seats available.
