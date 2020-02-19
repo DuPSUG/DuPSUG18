@@ -1,6 +1,6 @@
 # DuPSUG 18 ❤️ – Valentine’s Day Edition in Delft
 
-* [Barbara Forbes](https://twitter.com/Ba4bes) - [Deploy a PowerShell Function App to Azure in less then 10 minutes] (https://github.com/DuPSUG/DuPSUG18/blob/master/Barbara%20Forbes/DeployAzFAin10minutes.pdf)
+* [Barbara Forbes](https://twitter.com/Ba4bes) - [Deploy a PowerShell Function App to Azure in less then 10 minutes](https://github.com/DuPSUG/DuPSUG18/blob/master/Barbara%20Forbes/DeployAzFAin10minutes.pdf)
 * [Jos Koelewijn](https://twitter.com/Jawz_84) - [PowerShell Contributing for Everyone](https://github.com/DuPSUG/DuPSUG18/blob/master/Jos%20Koelewijn/PowerShell%20Contributing%20for%20Everyone.pptx)
 * [Jaap Brasser](https://twitter.com/jaap_brasser) - [DuPSUG Intro & 10 Problems](https://github.com/DuPSUG/DuPSUG18/blob/master/Jaap%20Brasser/)
 * [Rik van Berendonk](https://twitter.com/rikvanb) - []()
