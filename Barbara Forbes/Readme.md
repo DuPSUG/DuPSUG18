@@ -1,4 +1,4 @@
-# Deploy a PowerShell Function App to Azure in less then 10 minutes
+# Deploy a PowerShell Function App to Azure in less than 10 minutes
 
 The slide deck can be found in this folder.  
 To keep track of the code, I reference the repositories where you can find them here.

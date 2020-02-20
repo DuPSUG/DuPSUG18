@@ -19,7 +19,7 @@ We have the following speakers presenting:
 * 1700-1800 Walk in and food provided by OGD
 * 1800-1810 Welcome to OGD – Rik van Berendonk
 * 1810-1820 Ten Problems, fixed with PowerShell – Jaap Brasser
-* 1820-1920 Deploy a PowerShell Function App to Azure in less then 10 minutes – Barbara Forbes
+* 1820-1920 Deploy a PowerShell Function App to Azure in less than 10 minutes – Barbara Forbes
 * 1920-1930 Break
 * 1930-2030 Here ya go Timmy: Runspaces 101 for people in a hurry – Mathias Jessen
 * 2030-2035 Closing Remarks – Jaap Brasser
